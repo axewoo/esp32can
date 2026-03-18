@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <CAN.h>
-#define TX_GPIO_NUM 5
+#define TX_GPIO_NUM 18
 #define RX_GPIO_NUM 4
 void setup()
 {
